@@ -146,7 +146,7 @@ Angelegenheiten der Inkraftsetzung**
 
 Dieser Artikel behandelt den Übergang vom Organisationssystem vor
 Holacracy hin zum Betrieb unter der Verfassung und liefert Regelungen
-für die Übernahme von Holacracy im Rahmen einer Board-Struktur mit einer
+für die Übernahme von Holacracy im Rahmen einer Board-Struktur mit einer
 Gruppe Repräsentativer anstelle eines einzelnen Lead Links.
 
 <span id="_Toc438284468" class="anchor"></span>**PRÄAMBEL**
@@ -652,7 +652,7 @@ Einladung für den Cross Link definiert wurde.
 Der Governance-Prozess eines Kreises hat die Befugnis:
 
 * (a) die Rollen und Sub-Kreise des Kreises zu definieren, abzuändern oder zu entfernen; und
-* (b)die Policies des Kreises zu definieren, abzuändern oder zu entfernen; und
+* (b) die Policies des Kreises zu definieren, abzuändern oder zu entfernen; und
 * (c) Wahlen für die gewählten Rollen des Kreises durchzuführen.
 
 Zu jedem Zeitpunkt definieren die gerade aktuellen Ergebnisse des
